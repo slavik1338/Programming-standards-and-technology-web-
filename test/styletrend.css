@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hqd{
+  width:80%;
+  margin:0px auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
+
+.navigation a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+
+.nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 5px 10px;
+  background-color: #004d00; /* Темно-зеленый цвет */
+}
+
+.main-content {
+  text-align: center;
+  color: white;
+  background-color: grey;
+  padding: 20px;
+  height: 100%;
+}
+
+.posts {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.post {
+  width: 30%;
+}
+
+.n1{
+  color:yellow;
+}
+
+.n2{
+  color:silver;
+}
+
+.n3 {
+  color: brown;
+}
+
+.post img {
+  width: 100%;
+  height: 364px;
+}
+
+.post p {
+  font-size: 2em;
+  margin-top: -10px;
+  padding: 5px;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
